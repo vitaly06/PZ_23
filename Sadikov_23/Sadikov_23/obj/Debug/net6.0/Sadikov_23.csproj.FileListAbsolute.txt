@@ -1,0 +1,14 @@
+D:\Users\mitrofanov.na2189\source\repos\Sadikov_23\Sadikov_23\obj\Debug\net6.0\Sadikov_23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\mitrofanov.na2189\source\repos\Sadikov_23\Sadikov_23\obj\Debug\net6.0\Sadikov_23.AssemblyInfoInputs.cache
+D:\Users\mitrofanov.na2189\source\repos\Sadikov_23\Sadikov_23\obj\Debug\net6.0\Sadikov_23.AssemblyInfo.cs
+D:\Users\mitrofanov.na2189\source\repos\Sadikov_23\Sadikov_23\obj\Debug\net6.0\Sadikov_23.csproj.CoreCompileInputs.cache
+D:\Users\mitrofanov.na2189\source\repos\Sadikov_23\Sadikov_23\bin\Debug\net6.0\Sadikov_23.exe
+D:\Users\mitrofanov.na2189\source\repos\Sadikov_23\Sadikov_23\bin\Debug\net6.0\Sadikov_23.deps.json
+D:\Users\mitrofanov.na2189\source\repos\Sadikov_23\Sadikov_23\bin\Debug\net6.0\Sadikov_23.runtimeconfig.json
+D:\Users\mitrofanov.na2189\source\repos\Sadikov_23\Sadikov_23\bin\Debug\net6.0\Sadikov_23.dll
+D:\Users\mitrofanov.na2189\source\repos\Sadikov_23\Sadikov_23\bin\Debug\net6.0\Sadikov_23.pdb
+D:\Users\mitrofanov.na2189\source\repos\Sadikov_23\Sadikov_23\obj\Debug\net6.0\Sadikov_23.dll
+D:\Users\mitrofanov.na2189\source\repos\Sadikov_23\Sadikov_23\obj\Debug\net6.0\refint\Sadikov_23.dll
+D:\Users\mitrofanov.na2189\source\repos\Sadikov_23\Sadikov_23\obj\Debug\net6.0\Sadikov_23.pdb
+D:\Users\mitrofanov.na2189\source\repos\Sadikov_23\Sadikov_23\obj\Debug\net6.0\Sadikov_23.genruntimeconfig.cache
+D:\Users\mitrofanov.na2189\source\repos\Sadikov_23\Sadikov_23\obj\Debug\net6.0\ref\Sadikov_23.dll
