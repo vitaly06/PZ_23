@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "mHPMJQu2YHhs6CJkPACFCNhLArQfRzNGYI3PZk5DH7Se/5Nls7+wl/zz44ZEkpYAWBizqBJ7DkSNe2y9n6Jjxw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\TempStudent\\Source\\Repos\\PZ_23\\Sadikov_23\\Sadikov_23\\Sadikov_23.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Не удалось найти пакет Microsoft.WindowsDesktop.App.Ref. Пакеты с таким идентификатором отсутствуют в следующих источниках пакетов: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, Package source",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Не удалось найти пакет Microsoft.NETCore.App.Ref. Пакеты с таким идентификатором отсутствуют в следующих источниках пакетов: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, Package source",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Не удалось найти пакет Microsoft.AspNetCore.App.Ref. Пакеты с таким идентификатором отсутствуют в следующих источниках пакетов: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, Package source",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Не удалось найти пакет Microsoft.NETCore.App.Host.win-x64. Пакеты с таким идентификатором отсутствуют в следующих источниках пакетов: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, Package source",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
